@@ -4,13 +4,15 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Infor</title>
+<title>Information</title>
 </head>
 <body>
 
 	<h2>Hello world of Spring</h2>
 	<br><br>
 	Student Name : ${param.studentName}
+	<br><br>
+	Message : ${message}
 
 </body>
 </html>
